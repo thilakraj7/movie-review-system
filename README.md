@@ -78,5 +78,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Database design best practices
 
 ---
-📧 For queries, contact: aditya.girish17@gmail.com
+📧 For queries, contact: thilakraj67411@gmail.com
 
